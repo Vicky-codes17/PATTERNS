@@ -11,11 +11,11 @@ Each program prompts the user to enter the number of rows and then displays a ri
 For an input of *5 rows*, the output will look like this:
 
 
-* 
-* * 
-* * * 
-* * * * 
-* * * * *
+ * 
+ * * 
+ * * * 
+ * * * * 
+ * * * * *
 
 
 ## 📂 Features
@@ -66,6 +66,6 @@ Contribution are welcome!
 
 Feel free to explore,contribute,and adapt this project to suit your needs.If you encounter any issues or have suggestions for improvement,please raise them in the GitHub repository's issues section.🚀
 
-Connect with me on Linkedin : @vigneshramesh-13j01
+Connect with me on Linkedin : vigneshramesh-13j01
 
 - Vicky-codes17
