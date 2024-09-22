@@ -10,13 +10,11 @@ Each program prompts the user to enter the number of rows and then displays a ri
 
 For an input of *5 rows*, the output will look like this:
 
-
- * 
- * * 
- * * * 
- * * * * 
+ *
+ * *
+ * * *
+ * * * *
  * * * * *
-
 
 ## 📂 Features
 
