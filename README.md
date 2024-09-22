@@ -6,16 +6,6 @@ This repository contains programs that print a right-half pyramid star pattern i
 
 Each program prompts the user to enter the number of rows and then displays a right-aligned pyramid of stars (*). The number of stars increases with each row, creating a symmetrical pattern.
 
-###  Example Output
-
-For an input of *5 rows*, the output will look like this:
-
- *
- **
- ***
- ****
- *****
-
 ## 📂 Features
 
 - Written in three popular programming languages: C, Java, and Python.
