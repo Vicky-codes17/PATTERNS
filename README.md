@@ -1,4 +1,4 @@
-# 🌟 Star Pattern in Java, Python, and C
+# 🌟 Star Pattern in C, Java, and Python
 
 This repository contains programs that print a right-half pyramid star pattern in three programming languages: *Java, **Python, and **C*.
 
@@ -46,7 +46,7 @@ To run the programs, you need:
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](MIT) file for details.
 
 ## Contributing
 
@@ -54,6 +54,8 @@ Contribution are welcome!
 
 Feel free to explore,contribute,and adapt this project to suit your needs.If you encounter any issues or have suggestions for improvement,please raise them in the GitHub repository's issues section.🚀
 
-Connect with me on Linkedin : vigneshramesh-13j01
+## 📬Connect with me 
+
+You can find me on LinkedIn :[VigneshRamesh](https://www.linkedin.com/in/vigneshramesh-13j01)
 
 - Vicky-codes17
