@@ -1,0 +1,2 @@
+# PATTERNS
+Star Pattern
