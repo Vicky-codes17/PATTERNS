@@ -12,7 +12,7 @@ void main()
         //Inner For Loop
         for(j = 1; j<=i; j++)
         {
-            printf("*");
+            printf("* ");
         }
         printf("\n");
     }
