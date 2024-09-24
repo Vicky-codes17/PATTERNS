@@ -1,14 +1,18 @@
 #include<stdio.h>
+
 void main()
 {
-     int i,j;
-    //For Loop
-    for(i = 1; i<= 5; i++)
+    int i,j,rows;
+    printf("Enter the number of rows :");
+    scanf("%d",&rows);
+    for(i=1; i<=rows; i++)
     {
-        //Inner For Loop
-        for(j = 1; j<=i; j++)
+        for(j=1; j<=rows; j++)
         {
-            printf("* ");
+            if((i+j)<=rows)
+                printf(" ");
+            else
+                printf("*");
         }
         printf("\n");
     }
