@@ -14,6 +14,7 @@ Each program prompts the user to enter the number of rows and then displays a ri
 
 ## 🚀 How to Run the Programs
 To run this repository,follow these steps:
+
     1. Clone the repository:
         git clone https://github.com/Vicky-codes17/PATTERNS.git
         
