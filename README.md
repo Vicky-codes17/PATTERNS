@@ -1,6 +1,6 @@
 # 🌟 Star Pattern in C, Java, and Python
 
-This repository contains programs that print a right-half pyramid star pattern in three programming languages: *Java, **Python, and **C*.
+This repository contains programs that print a right-half pyramid star pattern in three programming languages: *Java*, *Python*, and *C*.
 
 ## 📋 Overview
 
